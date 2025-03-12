@@ -1,3 +1,7 @@
+##### Do not use this old repository. Instead, use https://github.com/pnlbwh/luigi-pnlpipe & https://github.com/pnlbwh/pnlNipype
+
+---
+
 ![](Misc/pnl-bwh-hms.png)
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.2584271.svg)](https://doi.org/10.5281/zenodo.2584271) [![Python](https://img.shields.io/badge/Python-3.6-green.svg)]() [![Platform](https://img.shields.io/badge/Platform-linux--64%20%7C%20osx--64-orange.svg)]()
